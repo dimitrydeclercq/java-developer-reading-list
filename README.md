@@ -42,12 +42,14 @@ _ISBN: 978-0596529321_
 (Paper) [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 
 
-## Operations
+## DevOps
+[The Twelve-Factor App](https://12factor.net/)
+
 [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)  
 _ISBN: 978-0988262591_
 
 [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)  
-_ISBN-13: 978-1942788003_
+_ISBN: 978-1942788003_
 
 [Site Reliability Engineering](https://landing.google.com/sre/book/index.html)  
 _ISBN: 978-1491929124_
