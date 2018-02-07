@@ -70,7 +70,8 @@ _ISBN: 978-1626569867_
 
 
 ## Bonus: Investing in Stock Markets
-Market Wizards
+[The New Market Wizards](https://www.amazon.com/New-Market-Wizards-Conversations-Americas/dp/0887306675)  
+_ISBN: 978-0887306679_
 
 [Trade Your Way to Financial Freedom](https://www.amazon.com/Trade-Your-Way-Financial-Freedom/dp/007147871X)  
 _ISBN: 978-0071478717_
